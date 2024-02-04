@@ -7,7 +7,7 @@ replicaCount: 1
 image:
   repository: robertsilvatech/flask-to-learn-containers
   pullPolicy: IfNotPresent
-  tag: "v1.0.0"
+  tag: "v1.1.0"
 
 imagePullSecrets: []
 
