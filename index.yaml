@@ -2,13 +2,23 @@ apiVersion: v1
 entries:
   flask-to-learn-containers:
   - apiVersion: v2
-    appVersion: 1.0.0
-    created: "2024-02-04T17:31:12.848005064-03:00"
+    appVersion: 1.1.0
+    created: "2024-02-04T17:36:02.662656348-03:00"
     description: A Helm chart for Learn Kubernetes and Helm
-    digest: c713e5fb1d4fc2feb446aa2903d362d0f5a3888b14bd82ca38608be37f4b7bdc
+    digest: 6616adc31b00aaad0477715b72ddc1a1160bb11bf63c9fae170e5685229d4f2c
+    name: flask-to-learn-containers
+    type: application
+    urls:
+    - https://robertsilvatech.github.io/helm-charts/flask-to-learn-containers-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.1.0
+    created: "2024-02-04T17:36:02.661873523-03:00"
+    description: A Helm chart for Learn Kubernetes and Helm
+    digest: cea08bd818e4773cbc4aeddbdfe3d01b728633820e380decc1c51cf4c7bca1e4
     name: flask-to-learn-containers
     type: application
     urls:
     - https://robertsilvatech.github.io/helm-charts/flask-to-learn-containers-0.1.0.tgz
     version: 0.1.0
-generated: "2024-02-04T17:31:12.84575371-03:00"
+generated: "2024-02-04T17:36:02.66155968-03:00"
