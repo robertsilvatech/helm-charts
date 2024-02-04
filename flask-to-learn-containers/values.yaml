@@ -22,4 +22,4 @@ readinesProbe: {}
 livenessProbe: {}
 
 env:
-  COLOR=yellow
+  COLOR: yellow
